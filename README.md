@@ -32,6 +32,7 @@
 - **A / Left Arrow**: Move left.
 - **S / Down Arrow**: Move down.
 - **D / Right Arrow**: Move right.
+- **ESC ** : Exit the game.
 
 ---
 
